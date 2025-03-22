@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "quiet-dust-9105",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bee92a30-26e9-4383-a3ac-8b94a6553a8d",
+      "database_name": "sparkling-glade-e72d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
